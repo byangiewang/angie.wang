@@ -8,5 +8,5 @@ categories:
 link: http://theink.nyc/brought-gun-fistfight/
 redirect: true
 photo:
-    filename: gun_violence.jpg
+    filename: theink.jpg
 ---
