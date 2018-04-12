@@ -1,6 +1,6 @@
 ---
 order: 24
-title: Tuberculosis rears its head in New York City
+title: Tuberculosis rears its head in NYC
 authors:
     - Angie Wang
 categories:
