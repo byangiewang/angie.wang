@@ -1,6 +1,6 @@
 ---
 order: 23
-title:  Children attend Women's March
+title:  Children attend the Women's March
 categories: photo
 photo:
     filename: march-suzie.jpg

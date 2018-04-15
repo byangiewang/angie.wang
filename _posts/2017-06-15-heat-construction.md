@@ -1,6 +1,6 @@
 ---
 order: 16
-title:  Workers in Phoenix battle summer heat wave
+title:  Workers in Phoenix battle summer heat
 categories: photo
 photo:
     filename: heat-construction.jpg
