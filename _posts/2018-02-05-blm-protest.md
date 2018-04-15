@@ -1,6 +1,6 @@
 ---
 order: 25
-title: Cop on trial draws small but determined Black Lives Matter crowd
+title: NYPD officer on trial draws small but determined Black Lives Matter crowd
 authors:
     - Angie Wang
 categories:

@@ -1,11 +1,11 @@
 ---
-order: 20
+order: 21
 title: ER violence jeopardizes hospital staff
 authors:
     - Angie Wang
 categories:
-    - photo
     - story
+    - photo
 link: http://theink.nyc/emergency-room-violence/
 redirect: true
 photo:
