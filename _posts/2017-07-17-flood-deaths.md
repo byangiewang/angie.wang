@@ -1,6 +1,6 @@
 ---
 order: 17
-title:  Flash flood in central Arizona kills family of 10
+title:  Flash flood in Arizona kills family of 10
 categories: photo
 photo:
     filename: flood-deaths.jpg
