@@ -1,6 +1,6 @@
 ---
 order: 22
-title: "United they stood: Women's March"
+title: "United they stood: the Women's March"
 authors:
     - Angie Wang
 categories:
