@@ -1,6 +1,6 @@
 ---
 order: 19
-title: "He brought a gun to a fistfight: How a Brooklyn homicide tore apart families"
+title: "'He brought a gun to a fistfight': How a Brooklyn homicide tore apart families"
 authors:
     - Angie Wang
 categories:
