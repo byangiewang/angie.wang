@@ -1,6 +1,6 @@
 ---
 order: 11
-title:  Two dead in murder-suicide on UCLA campus
+title:  Two dead in murder-suicide at UCLA
 authors: ["Angie Wang", "Roberto Luna Jr."]
 categories: story
 link: http://dailybruin.com/2016/06/01/two-reported-dead-in-murder-suicide-on-ucla-campus/
