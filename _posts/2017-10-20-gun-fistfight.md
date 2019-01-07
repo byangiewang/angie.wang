@@ -1,6 +1,6 @@
 ---
 order: 7
-title: "'He brought a gun to a fistfight': How a Brooklyn homicide tore apart families"
+title: "'He brought a gun to a fistfight:' How a Brooklyn homicide tore apart families"
 authors:
     - Angie Wang
 categories:
@@ -8,5 +8,5 @@ categories:
 link: http://theink.nyc/brought-gun-fistfight/
 redirect: true
 photo:
-    filename: theinknyc.jpg
+    filename: gun_violence.jpg
 ---
