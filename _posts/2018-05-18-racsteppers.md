@@ -1,5 +1,5 @@
 ---
-order: 25
+order: 9
 title: "'A hidden gem': Brownsville's young champions"
 authors:
     - Angie Wang

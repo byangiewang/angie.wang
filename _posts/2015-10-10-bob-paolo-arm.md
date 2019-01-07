@@ -1,5 +1,5 @@
 ---
-order: 6
+order: 3
 title:  Paolo’s first home
 categories: photo
 photo:
