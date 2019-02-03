@@ -1,6 +1,6 @@
 ---
 order: 9
-title: "'A hidden gem:' Brownsville's young champions"
+title: "'A hidden gem': Brownsville's young champions"
 authors:
     - Angie Wang
 categories:
