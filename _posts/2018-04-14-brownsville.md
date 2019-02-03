@@ -5,7 +5,6 @@ authors:
     - Angie Wang
 categories:
     - story
-    - photo
     - data
 link: http://nycitylens.com/2018/04/brownsville-crime-wouldnt-know-papers/
 redirect: true
