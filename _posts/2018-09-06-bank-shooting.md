@@ -1,6 +1,6 @@
 ---
 order: 20
-title: "'A horrific situation:' 4 dead in Cincinnati bank shooting"
+title: "'A horrific situation': 4 dead in Cincinnati bank shooting"
 authors:
     - Angie Wang
     - Dan Sewell
