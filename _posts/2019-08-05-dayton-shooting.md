@@ -1,6 +1,6 @@
 ---
 order: 24
-title:  'After shooting in Dayton, vigil crowd chants at Ohio governor: Do something!'
+title:  "'Do something': After Dayton shooting, vigil crowd chants at Ohio governor"
 categories: video
 link: https://www.youtube.com/watch?v=2xP17ygDR5o
 video: 2xP17ygDR5o
