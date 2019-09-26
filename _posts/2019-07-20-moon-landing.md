@@ -1,6 +1,6 @@
 ---
 order: 21
-title:  Moon landing fete in Neil Armstrong's hometown
+title:  Thousands celebrate anniversary of moon landing in Neil Armstrong's hometown
 categories: video
 link: https://www.youtube.com/watch?v=huNmlSY0VDI
 video: huNmlSY0VDI

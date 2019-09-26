@@ -1,6 +1,6 @@
 ---
 order: 18
-title:  "Not just jobs riding on fate of GM plant after Trump promise"
+title:  "Not just jobs riding on fate of GM plant after Trump's promise"
 authors: ["Angie Wang", "Tom Krisher", "John Seewer"]
 categories:
     - story
