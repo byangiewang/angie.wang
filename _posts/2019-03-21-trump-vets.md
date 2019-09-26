@@ -1,5 +1,5 @@
 ---
-order: 7
+order: 23
 title:  Veterans speak out on Trump's McCain comments
 categories: video
 link: https://www.youtube.com/watch?v=PNi-id81V-g

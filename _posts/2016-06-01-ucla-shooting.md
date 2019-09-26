@@ -1,5 +1,5 @@
 ---
-order: 4
+order: 3
 title:  2 dead in murder-suicide at UCLA
 authors: ["Angie Wang", "Roberto Luna Jr."]
 categories: story

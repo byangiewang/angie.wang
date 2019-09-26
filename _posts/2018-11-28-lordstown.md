@@ -1,5 +1,5 @@
 ---
-order: 23
+order: 18
 title:  "Not just jobs riding on fate of GM plant after Trump promise"
 authors: ["Angie Wang", "Tom Krisher", "John Seewer"]
 categories:
