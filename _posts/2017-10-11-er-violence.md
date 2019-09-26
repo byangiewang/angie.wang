@@ -1,5 +1,5 @@
 ---
-order: 10
+order: 7
 title: ER violence jeopardizes hospital staff
 authors:
     - Angie Wang
