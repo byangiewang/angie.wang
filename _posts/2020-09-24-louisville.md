@@ -1,6 +1,6 @@
 ---
-order: 28
-title: "Rescuers reach Gulf Coast residents cut off by Hurricane Sally"
+order: 30
+title: "‘No easy answer’: Many ask what's next in Breonna Taylor case"
 authors:
     - Claire Galofaro
     - Dylan Lovan
