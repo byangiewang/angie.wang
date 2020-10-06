@@ -1,6 +1,6 @@
 ---
 order: 26
-title:  Ahead of 2020 election, Black women seize the spotlight
+title:  Ahead of presidential election, Black women seize the spotlight
 categories: video
 link: https://www.youtube.com/watch?v=HHDC8UbHYjs
 video: HHDC8UbHYjs
