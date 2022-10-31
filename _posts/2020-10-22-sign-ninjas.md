@@ -1,5 +1,5 @@
 ---
-order: 17
+order: 14
 title:  Sign ninjas aim to sway local elections in Georgia suburb
 categories: video
 link: https://www.youtube.com/watch?v=mincNhxGqMI
