@@ -1,5 +1,5 @@
 ---
-order: 27
+order: 11
 title:  Homes destroyed as deadly storms, tornadoes strike Georgia
 categories: video
 link: https://www.youtube.com/watch?v=IG39Hp1BQw0

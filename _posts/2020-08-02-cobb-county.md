@@ -1,5 +1,5 @@
 ---
-order: 26
+order: 20
 title:  Ahead of presidential election, Black women seize the spotlight
 categories: video
 link: https://www.youtube.com/watch?v=HHDC8UbHYjs

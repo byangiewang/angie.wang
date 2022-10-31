@@ -1,5 +1,5 @@
 ---
-order: 9
+order: 3
 title: Crime in Brownsville is down, but you wouldn't know it from the papers
 authors:
     - Angie Wang

@@ -8,4 +8,4 @@ photo:
   filename: healthy-aging.jpg
 ---
 
-95-year-old Richard Soller has achieved a goal chased by humans since ancient times: Staying healthy and active in late life. It's a goal that eludes many, but scientists are trying to change that through research into cellular senescence. 
+95-year-old Richard Soller has achieved a goal chased by humans since ancient times: Staying healthy and active in late life. It's one that eludes many – but scientists are trying to change that through research into cellular senescence. 

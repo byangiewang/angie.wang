@@ -1,5 +1,5 @@
 ---
-order: 22
+order: 7
 title:  Georgia Tech announces certified 'living building' on Earth Day
 categories: video
 link: https://www.youtube.com/watch?v=kyqQt-7o0ts

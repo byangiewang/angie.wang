@@ -1,5 +1,5 @@
 ---
-order: 15
+order: 8
 title:  "Authorities: Custody dispute played role in family’s slaying"
 authors: ["Angie Wang", "Andrew Welsh-Huggins"]
 categories: story

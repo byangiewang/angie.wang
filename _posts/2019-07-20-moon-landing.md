@@ -1,5 +1,5 @@
 ---
-order: 21
+order: 9
 title:  Thousands celebrate moon landing anniversary in Armstrong's hometown
 categories: video
 link: https://www.youtube.com/watch?v=huNmlSY0VDI

@@ -1,6 +1,6 @@
 ---
-order: 3
-title:  US rolls out COVID-19 vaccines for youngest kids
+order: 21
+title:  US rolls out COVID-19 vaccines for nation's youngest children
 categories: video
 link: https://www.youtube.com/watch?v=H7716weqCIs
 video: H7716weqCIs

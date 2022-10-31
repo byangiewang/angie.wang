@@ -1,5 +1,5 @@
 ---
-order: 13
+order: 10
 title: "Homeless forced to leave Cincinnati camp but vow to return"
 authors:
     - Angie Wang
