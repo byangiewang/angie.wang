@@ -1,5 +1,5 @@
 ---
-order: 10
+order: 15
 title: "‘No easy answer’: Many ask what's next in Breonna Taylor case"
 authors:
     - Claire Galofaro

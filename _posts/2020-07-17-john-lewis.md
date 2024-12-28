@@ -1,5 +1,5 @@
 ---
-order: 14
+order: 11
 title:  John Lewis, lion of US civil rights, dies at 80
 categories: video
 link: https://www.youtube.com/watch?v=M7S0jxIsqrs
