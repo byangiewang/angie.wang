@@ -1,5 +1,5 @@
 ---
-order: 15
+order: 8
 title:  China trade tensions worry US farmers
 categories: video
 link: https://www.youtube.com/watch?v=D3UzsRuuDR0

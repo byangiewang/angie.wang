@@ -1,5 +1,5 @@
 ---
-order: 16
+order: 7
 title:  Veterans speak out on Trump's criticism of late Sen. John McCain
 categories: video
 link: https://www.youtube.com/watch?v=PNi-id81V-g

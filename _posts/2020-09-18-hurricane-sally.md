@@ -1,5 +1,5 @@
 ---
-order: 19
+order: 9
 title: "Rescuers reach Gulf Coast residents cut off by Hurricane Sally"
 authors:
     - Jay Reeves

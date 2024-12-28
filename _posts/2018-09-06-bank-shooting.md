@@ -1,5 +1,5 @@
 ---
-order: 13
+order: 5
 title: "'A horrific situation': 4 dead in Cincinnati bank shooting"
 authors:
     - Angie Wang

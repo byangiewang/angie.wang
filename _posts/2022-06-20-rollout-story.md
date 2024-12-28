@@ -1,5 +1,5 @@
 ---
-order: 22
+order: 15
 title:  "Shots for tots: COVID-19 vaccinations start for little kids in US"
 authors:
     - Lindsey Tanner

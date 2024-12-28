@@ -1,5 +1,5 @@
 ---
-order: 25
+order: 16
 title:  In rural Georgia, death upon death during coronavirus outbreak
 categories: video
 link: https://www.youtube.com/watch?v=uA_IQkyqLKE
