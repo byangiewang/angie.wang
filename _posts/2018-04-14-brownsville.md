@@ -6,6 +6,7 @@ authors:
 categories:
     - story
     - data
+    - photo
 link: https://nycitylens.com/brownsville-crime-wouldnt-know-papers/
 redirect: true
 photo:
