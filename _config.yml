@@ -16,7 +16,7 @@
 title: Angie Wang
 email: awang@ap.org
 description: > # this means to ignore newlines until "baseurl:"
-  Angie Wang is a senior video journalist, producer and editor who has covered many of the nation’s watershed moments over the past decade. She most recently managed a team of Associated Press video journalists based in New York, leading visual coverage of major stories across the U.S. while training the global news agency’s most recent hires and coaching veteran reporters to present their work to growing digital audiences.
+  Angie Wang is a video journalist, producer and editor who's covered many of the nation's watershed moments over the past decade. She most recently managed a team of AP video journalists based in New York, leading visual coverage of major stories, training new hires and coaching veteran reporters to present their work to digital audiences.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://angie.wang" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: byangiewang
